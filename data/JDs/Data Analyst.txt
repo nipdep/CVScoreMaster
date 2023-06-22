@@ -1,0 +1,33 @@
+Designation: Data Analyst
+Location: Colombo
+Your key role and responsibilities
+Participate in business requirements and design review sessions and work directly with business units to define and prototype Power BI Applications
+Perform quality coding from business and technical specifications
+Extract, transform and load data from proprietary SQL databases into Power BI applications
+Develop, test and debug Power BI application
+Migrate code across production, development, and testing environments
+Create and maintain technical design documentation
+Interact with different teams to design, create and tune physical database objects (tables, views,
+indexes) to support logical and dimensional models
+Source data from disparate systems with a good understanding of their Data Models and ETL procedures
+Skills and attributes for success
+
+BE/BTech/MCA/MBA with adequate industry experience
+Should be at least around 5 years of experience in Enterprise intelligence
+2+ years of hands on experience utilizing Power BI to implement analytical solutions accessing and integrating data from multiple sources
+2+ years of hands on experience developing Business Intelligence (BI) and Analytical Solutions.
+Ingesting data from a variety of corporate data sources and performing required transformations in Power BI query editor.
+Build dashboards, reports and cubes using SQL, MDX, DAX, Power BI.
+Developing calculations in DAX which are accurate and performant on large datasets.
+Designing effective layouts using themes and report grids, working closely with our UX design team.
+Utilising the navigation features in Power BI (e.g. bookmarks, drill-throughs) to guide readers through a compelling data-driven story.
+Deployment and other admin related activities such as scheduling data refresh, sending outputs to users via mail, access control etc.
+Publishing reports via the Power BI service, managing them through distribution of apps and monitoring usage/data refreshes/security access.
+Knowledge of cloud computing, preferably on Azure.
+Strong DWH basics.
+Strong data modelling skills.
+Familiar with Agile and Waterfall SDLC process
+Strong SQL skills
+Should be at least 2 years of experience in Enterprise intelligence
+Strong SQL and PL/SQL skills
+Create database objects and T-SQL scripts

@@ -1,0 +1,23 @@
+Business Intelligence 
+Job Description
+
+Primary job role Qualifications
+Work from an incoming queue of varying case types (Incidents, Service Requests and Problems) within SLA and OLA targets to deliver a world leading customer experience
+Attending to Azure related issues and resolve within the SLA
+Use multiple sources of technical information to resolves cases as quickly and consistently as possible.
+Work with the other team members inside and outside CoS as needed to resolve customer cases
+Deliver a top tier customer experience through clear communication, precise management of expectations and good customer focused service delivery
+Create suitable documentation for recurrent tasks, including where relevant process guides, SOPs and architecture diagrams
+Identify opportunities for new or enhanced automations and processes to drive efficiencies within the CoS BI COE team
+Work with the CoS BI COE team to deliver on various projects to expand and enhance our catalogue of service offerings
+Deploying delivers of SSIS, SSAS and DB scripts to Azure
+Deploying deliveries of SSIS, SSAS and DB scripts to on-premise SQL Server
+Creating and maintaining pipelines in Azure Data Factory.
+Sizing, Installing, Monitoring, and Troubleshooting Windows SQL servers, SQL Azure, Azure Analysis Services and SSIS Integration Runtimes in Azure Data Factory
+Trouble shooting performance of SSIS jobs and SQL queries
+Administrating Power BI workspaces, Gateways, and security
+Installing applications on Citrix, troubleshooting IPE on Citrix problems
+Other tasks as tools and technologies used by the BI team evolve
+A degree in Software Engineering, Information Technology, Computer Science or equivalent along with 2+ years experience working in a BI related domain
+Azure certifications are desired
+ITIL qualifications, at foundation or higher levels, would be useful but are not mandatory

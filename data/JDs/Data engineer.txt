@@ -1,0 +1,37 @@
+Role description
+
+The Data Engineers will work with the data engineering team to help develop high performance & high scalability enterprise applications. Working closely with more experienced data engineers, they will be learning how to build pipelines and manage data. They will also work with data scientists and business leadership to develop data pipelines for model development and productionalization. Their work will involve high level of interface with senior data engineers and the tech lead.
+
+ 
+Key responsibilities
+
+    Gather requirements, assess gaps and build roadmaps and architectures
+    Work closely with Data Analysts to ensure data quality and availability for analytical modelling
+    Work with data engineers and senior data engineers and learn how to explore suitable options, design, and create data pipelines (data lake / data warehouses) for specific analytical solutions
+    Identify gaps and implement solutions for data security, quality and automation of processes
+    Support maintenance, bug fixing and performance analysis along data pipeline
+    Contribute to knowledge building and sharing by researching best practices, documenting solutions and continuously iterating on new ways to solve problems
+
+ 
+Desired Skills / Competencies
+
+Education + Technical skills / experience
+
+    Bachelor's degree in Computer Science, Engineering, Mathematics or Statistics.
+    3+ years of experience in data engineering field 
+    Basic knowledge of at least 1 programming language
+    Basic understanding of Microsoft Azure or other leading cloud platforms
+    Limited understanding of maintaining and configuring data engineering and ETL tools (e.g., Informatica, Azure Data Factory, SSIS)
+    Basic understanding of data tools such as Hive, Spark, Hadoop, or Presto
+
+Managerial Skills
+
+    Ability to work well in agile environments in diverse teams with multiple stakeholders
+    Strong project management and organizational skills
+    Ability to effectively communicate complex analytical and technical content
+
+Mindset & Behavior
+
+    High energy and passionate individual who inspires teammates to reach their maximum potential
+    Excited about trying new solutions outside standard approved
+    Willing to adopt an iterative approach; experimental mindset to drive innovation

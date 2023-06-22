@@ -1,0 +1,19 @@
+Applications Engineer
+
+We're looking for Applications Engineer to join our team.
+Does this sound like a good role for you?
+Working as part of the AE team based in Colombo, Sri Lanka. You will contribute to EDA Tools related Customer support. The support will involve understanding digital / RTL design, debug methodology and verification methodology. You will also be responsible for customer satisfaction, product deployment and reactive support, giving feedback to enhance the quality / value for the product. As part of the largest EDA Company, you will be in contact with remote teams on different continents.
+
+Key Qualifications
+Excellent knowledge of the fundamentals of digital electronics and logic design
+Technically bright and analytical minded
+Strong debugging and troubleshooting skills
+Excellent communication skills, teamwork skills
+Knowledge/Experience of Hardware description languages (HDL)
+Familiarity/knowledge/experience with any of the following would be a plus: EDA/CAD tools, Simulation, Synthesis, Formal Verification, Logic synthesis, DFT, Static and Dynamic verification, Timing and Physical implementation tools and methodology, FPGA/ASIC designs
+BSc in the domain of Electronics/Electrical Engineering
+
+Preferred Experience
+Digital design concepts
+Verilog, VHDL & Systems Verilog
+Verification methodologies

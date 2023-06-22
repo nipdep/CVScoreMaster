@@ -1,0 +1,19 @@
+QA Engineer - Automation 
+Responsibilities and Scope
+Contribute to product test plans and creating test suite for product
+Participate in complete SDLC and ensure delivery of releases with minimum defects
+Work closely with developer team to develop and put in place automated testing framework to ensure proper CICD.
+Ensure developer team adopts best practices ensuring code quality and continuous improvement process to minimize defect
+Contribute to Product testing and mentor juniors
+Excellent communication, presentation and interpersonal skills
+
+Required Background And Skills Set
+IT or an Engineering Degree from a reputed University
+2+ Years hands-on Technical QA experience, minimum 1 year in Software Development or Test Automation functions.
+Solid practical understanding of Software Quality Assurance and Software Engineering concepts (Risk Based testing approach and SCRUM)
+Proficient in UI and web service based test automation frameworks, Preferred selenium webdriver, cucumber, Junit/TestNg , Postman and Rest-assured
+Performance test planning, scripting, running and report analysis such as JMeter (preferred)
+Solid practical Knowledge on at least one programming language such as Java(preferred)
+Preferably an ISTQB certification or equivalent
+Experience with WSO2 Carbon platform
+Background in Telecommunications domain with relevant experience with a vendor or MNO

@@ -1,0 +1,14 @@
+
+Cloud Engineer
+Job Description
+â€¢ As a Cloud Engineer, you will contribute to defining and deploying our cloud infrastructure within Microsoft Azure and Google Cloud/Firebase for our cloudnative applications and services.
+â€¢ As a member of our engineering team, you will collaborate closely with Applications Architect(s), Data Architect(s) and Data Engineer(s) to ensure integration, compatibility and engineering efficiencies across our broad product ecosystem.
+â€¢ You will contribute to defining and implementing application and infrastructure policies to establish security and governance and proactively work towards optimising our cloud infrastructure.
+
+Requirements
+â€¢ Expertise in Microsoft Azure and Google Cloud/Firebase
+â€¢ Experience configuring and deploying cloud architecture and frameworks for cloud-native applications
+â€¢ Strong knowledge of cloud security and compliance
+â€¢ Experience working with Data-Driven Applications
+â€¢ Experience in CI/CD pipelines with Azure and GCP DevOps
+â€¢ Minimum of 5 years' experience working as a Cloud Engineer.

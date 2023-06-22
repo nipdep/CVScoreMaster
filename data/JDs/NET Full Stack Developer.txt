@@ -1,0 +1,31 @@
+.NET Full Stack Developer
+Education/ Experience And Skill Requirement
+Graduate in Computer Science or related field
+Over 7 years of industry experience in software development using Microsoft .NET technologies, C#, .NET Core, MVC, Web API and MS SQL Server
+Experience building .NET applications using .NET4.X Framework/C#, Web API, HTML5, CSS, Angular or other JS-based frameworks
+Strong understanding of Angular V7+ and its core principles (routing, components, services, modules and forms)
+Proficiency in JavaScript and ECMAScript 6
+Experience with data visualisation libraries/framework including D3JS and HighCharts (preferred)
+Skilled in PL-SQL or T-SQL, stored procedures, transactions and SQL Server, as well as experience in relational database concepts
+Experience and expertise using Azure services such as Azure Functions, Azure messaging services, Azure SQL Server, Azure KeyVault, Azure Cognitive services, Azure Data Factory, SQL Data Warehouse Azure Blob, Azure Storage Explorer, Azure DevOps, setting up CI/CD pipelines, etc.
+Experience in Unit Testing with Nunit, MOQ or a similar framework
+Experience in SOA and Web Service standards (REST, JSON, SOAP, WSDL and WS-I Basic Profile) and IIS
+Strong understanding of OOPS, SOLID Principle, Dependency Injection and Design Patterns
+Experience managing expectations of stakeholders (client and project team) and generating relevant reports
+Good decision-making and problem-solving skills
+Adaptability, flexibility and ability to prioritise and work under tight schedules
+Ability to manage pressure, ambiguity and change
+Good understanding of software development including requirement gathering, designing, development, testing, maintenance and quality control
+Experience with Agile methodology and knowledge of financial services/asset management industry (preferred)
+
+Responsibilities
+Translate client requirements into actionable solutions and understand business requirements from customers
+Direct and manage project development
+Effectively communicate project expectations to team members in a timely and clear fashion
+Identify and manage project dependencies and critical paths
+Design and implement the system from scratch and build enhancements, as well as feature requests using Microsoft .NET technologies, C#, Web API, HTML5, CSS and Angular
+Build prototypes of applications and solutions, as needed
+Extend and maintain existing codebase, with a focus on quality, reusability, maintainability and consistency
+Independently troubleshoot complex issues on production and other environments
+Multi-task in a fast-paced environment, with absolute attention to detail and strong work ethics
+Perform quality checks while adhering to the agreed service-level agreement/turnaround time
