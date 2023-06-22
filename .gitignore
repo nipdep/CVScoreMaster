@@ -1,0 +1,8 @@
+# ignore cache
+.vscode/
+__pycache__/
+
+# ignore data dir
+venv/
+data/
+tmp/

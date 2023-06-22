@@ -1,0 +1,10 @@
+python-dotenv
+h2o-wave
+numpy
+pandas
+kor
+langchain
+sentence-transformers
+openai
+nltk
+scikit-learn
