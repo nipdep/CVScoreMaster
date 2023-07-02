@@ -127,14 +127,24 @@ async def cv_page(q: Q, details=None):
     )
 
     # CV content 
-    cv_details_card = ui.article_card(
+    cv_details_card = ui.form_card(
         box=ui.box(zone='content_3',
                 order=2,
                 #    height='',
                 #    width='',
                 ),
-        title=f"ID : {cv_details['id']} | Name : {cv_details['name']}",
-        content=cv_details['content'])
+        items=[
+            ui.text_xl(content=f"ID : {cv_details['id']} | Name : {cv_details['name']}"),
+            ui.text_l("Personal Details"),
+            ui.text_m(cv_details['personal-content']),
+            ui.text_l("Skill Details"),
+            ui.text_m(cv_details['skill-content']),
+            ui.text_l("Education Details"),
+            ui.text_m(cv_details['education-content']),
+            ui.text_l("Work Experience Details"),
+            ui.text_m(cv_details['exp-content']),
+        ]
+        )
     
     # CV skill list 
     meta_n = 5

@@ -48,7 +48,7 @@ def load_js_data():
     return df 
 
 def load_cv_data():
-    df = pd.read_csv('./data/cv_extracted.csv')
+    df = pd.read_csv('./data/cv_extractedV3.csv')
     return df 
 
 def load_short_list():
@@ -109,7 +109,7 @@ async def shortlist_cvs(q: Q, JD_dict, k=10):
     df['skill_score'] = df.apply(lambda r: skill_score(JD_dict['skills'], r['skills']) ,axis=1)
     df['edu_score'] = df.apply(lambda r: edu_score(JD_dict['education'], r['education']) ,axis=1)
     df['exp_score'] = df.apply(lambda r: exp_score(JD_dict['experience'], r['experience']) ,axis=1)
-    df['total_score'] = df.apply(lambda r: total_score(r) ,axis=1)
+    df['total_score'] = df.apply(lambda r: total_score(r, skill=q.args.skill_weight, edu=q.args.edu_weight, exp=q.args.exp_weight) ,axis=1)
     return df 
 
 async def update_short_list(q: Q, df):

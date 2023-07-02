@@ -1,105 +1,25 @@
 job,content,vacancies,skills,education,experience
-QA Engineer,"QA Engineer - Automation 
-Responsibilities and Scope
-Contribute to product test plans and creating test suite for product
-Participate in complete SDLC and ensure delivery of releases with minimum defects
-Work closely with developer team to develop and put in place automated testing framework to ensure proper CICD.
-Ensure developer team adopts best practices ensuring code quality and continuous improvement process to minimize defect
-Contribute to Product testing and mentor juniors
-Excellent communication, presentation and interpersonal skills
-
-Required Background And Skills Set
-IT or an Engineering Degree from a reputed University
-2+ Years hands-on Technical QA experience, minimum 1 year in Software Development or Test Automation functions.
-Solid practical understanding of Software Quality Assurance and Software Engineering concepts (Risk Based testing approach and SCRUM)
-Proficient in UI and web service based test automation frameworks, Preferred selenium webdriver, cucumber, Junit/TestNg , Postman and Rest-assured
-Performance test planning, scripting, running and report analysis such as JMeter (preferred)
-Solid practical Knowledge on at least one programming language such as Java(preferred)
-Preferably an ISTQB certification or equivalent
-Experience with WSO2 Carbon platform
-Background in Telecommunications domain with relevant experience with a vendor or MNO",12,"['Selenium', 'Cucumber', 'JUnit', 'TestNG', 'Postman', 'Rest-assured', 'Java', 'JMeter', 'WSO2 Carbon platform', 'SCRUM', 'Software Quality Assurance', 'Software Engineering', 'Risk Based testing approach', 'UI testing', 'Web service testing', 'Performance testing', 'Telecommunications domain']",,
-Data Engineer,"Role description
-
-The Data Engineers will work with the data engineering team to help develop high performance & high scalability enterprise applications. Working closely with more experienced data engineers, they will be learning how to build pipelines and manage data. They will also work with data scientists and business leadership to develop data pipelines for model development and productionalization. Their work will involve high level of interface with senior data engineers and the tech lead.
-
- 
-Key responsibilities
-
-    Gather requirements, assess gaps and build roadmaps and architectures
-    Work closely with Data Analysts to ensure data quality and availability for analytical modelling
-    Work with data engineers and senior data engineers and learn how to explore suitable options, design, and create data pipelines (data lake / data warehouses) for specific analytical solutions
-    Identify gaps and implement solutions for data security, quality and automation of processes
-    Support maintenance, bug fixing and performance analysis along data pipeline
-    Contribute to knowledge building and sharing by researching best practices, documenting solutions and continuously iterating on new ways to solve problems
-
- 
-Desired Skills / Competencies
-
-Education + Technical skills / experience
-
-    Bachelor's degree in Computer Science, Engineering, Mathematics or Statistics.
-    3+ years of experience in data engineering field 
-    Basic knowledge of at least 1 programming language
-    Basic understanding of Microsoft Azure or other leading cloud platforms
-    Limited understanding of maintaining and configuring data engineering and ETL tools (e.g., Informatica, Azure Data Factory, SSIS)
-    Basic understanding of data tools such as Hive, Spark, Hadoop, or Presto
-
-Managerial Skills
-
-    Ability to work well in agile environments in diverse teams with multiple stakeholders
-    Strong project management and organizational skills
-    Ability to effectively communicate complex analytical and technical content
-
-Mindset & Behavior
-
-    High energy and passionate individual who inspires teammates to reach their maximum potential
-    Excited about trying new solutions outside standard approved
-    Willing to adopt an iterative approach; experimental mindset to drive innovation",2,"['Microsoft Azure', 'programming language', 'Hive', 'Spark', 'Hadoop', 'Presto']",degree,12.0
-Data Analyst,"Designation: Data Analyst
-Location: Colombo
-Your key role and responsibilities
-Participate in business requirements and design review sessions and work directly with business units to define and prototype Power BI Applications
-Perform quality coding from business and technical specifications
-Extract, transform and load data from proprietary SQL databases into Power BI applications
-Develop, test and debug Power BI application
-Migrate code across production, development, and testing environments
-Create and maintain technical design documentation
-Interact with different teams to design, create and tune physical database objects (tables, views,
-indexes) to support logical and dimensional models
-Source data from disparate systems with a good understanding of their Data Models and ETL procedures
-Skills and attributes for success
-
-BE/BTech/MCA/MBA with adequate industry experience
-Should be at least around 5 years of experience in Enterprise intelligence
-2+ years of hands on experience utilizing Power BI to implement analytical solutions accessing and integrating data from multiple sources
-2+ years of hands on experience developing Business Intelligence (BI) and Analytical Solutions.
-Ingesting data from a variety of corporate data sources and performing required transformations in Power BI query editor.
-Build dashboards, reports and cubes using SQL, MDX, DAX, Power BI.
-Developing calculations in DAX which are accurate and performant on large datasets.
-Designing effective layouts using themes and report grids, working closely with our UX design team.
-Utilising the navigation features in Power BI (e.g. bookmarks, drill-throughs) to guide readers through a compelling data-driven story.
-Deployment and other admin related activities such as scheduling data refresh, sending outputs to users via mail, access control etc.
-Publishing reports via the Power BI service, managing them through distribution of apps and monitoring usage/data refreshes/security access.
-Knowledge of cloud computing, preferably on Azure.
-Strong DWH basics.
-Strong data modelling skills.
-Familiar with Agile and Waterfall SDLC process
-Strong SQL skills
-Should be at least 2 years of experience in Enterprise intelligence
-Strong SQL and PL/SQL skills
-Create database objects and T-SQL scripts",11,"['Power BI', 'SQL', 'MDX', 'DAX', 'Azure', 'Agile', 'Waterfall', 'PL/SQL', 'T-SQL']",degree,6.0
-Cloud Engineer,"
-Cloud Engineer
+Business Intelligence,"Business Intelligence 
 Job Description
-Ã¢â‚¬Â¢ As a Cloud Engineer, you will contribute to defining and deploying our cloud infrastructure within Microsoft Azure and Google Cloud/Firebase for our cloudnative applications and services.
-Ã¢â‚¬Â¢ As a member of our engineering team, you will collaborate closely with Applications Architect(s), Data Architect(s) and Data Engineer(s) to ensure integration, compatibility and engineering efficiencies across our broad product ecosystem.
-Ã¢â‚¬Â¢ You will contribute to defining and implementing application and infrastructure policies to establish security and governance and proactively work towards optimising our cloud infrastructure.
 
-Requirements
-Ã¢â‚¬Â¢ Expertise in Microsoft Azure and Google Cloud/Firebase
-Ã¢â‚¬Â¢ Experience configuring and deploying cloud architecture and frameworks for cloud-native applications
-Ã¢â‚¬Â¢ Strong knowledge of cloud security and compliance
-Ã¢â‚¬Â¢ Experience working with Data-Driven Applications
-Ã¢â‚¬Â¢ Experience in CI/CD pipelines with Azure and GCP DevOps
-Ã¢â‚¬Â¢ Minimum of 5 years' experience working as a Cloud Engineer.
-",10,"['Microsoft Azure', 'Google Cloud/Firebase', 'CI/CD pipelines', 'DevOps', 'cloud security', 'cloud compliance', 'cloud architecture', 'cloud-native applications', 'Data-Driven Applications']",,
+Primary job role Qualifications
+Work from an incoming queue of varying case types (Incidents, Service Requests and Problems) within SLA and OLA targets to deliver a world leading customer experience
+Attending to Azure related issues and resolve within the SLA
+Use multiple sources of technical information to resolves cases as quickly and consistently as possible.
+Work with the other team members inside and outside CoS as needed to resolve customer cases
+Deliver a top tier customer experience through clear communication, precise management of expectations and good customer focused service delivery
+Create suitable documentation for recurrent tasks, including where relevant process guides, SOPs and architecture diagrams
+Identify opportunities for new or enhanced automations and processes to drive efficiencies within the CoS BI COE team
+Work with the CoS BI COE team to deliver on various projects to expand and enhance our catalogue of service offerings
+Deploying delivers of SSIS, SSAS and DB scripts to Azure
+Deploying deliveries of SSIS, SSAS and DB scripts to on-premise SQL Server
+Creating and maintaining pipelines in Azure Data Factory.
+Sizing, Installing, Monitoring, and Troubleshooting Windows SQL servers, SQL Azure, Azure Analysis Services and SSIS Integration Runtimes in Azure Data Factory
+Trouble shooting performance of SSIS jobs and SQL queries
+Administrating Power BI workspaces, Gateways, and security
+Installing applications on Citrix, troubleshooting IPE on Citrix problems
+Other tasks as tools and technologies used by the BI team evolve
+A degree in Software Engineering, Information Technology, Computer Science or equivalent along with 2+ years experience working in a BI related domain
+Azure certifications are desired
+ITIL qualifications, at foundation or higher levels, would be useful but are not mandatory
+",34,"['Azure', 'SSIS', 'SSAS', 'DB scripts', 'Azure Data Factory', 'Windows SQL servers', 'SQL Azure', 'Azure Analysis Services', 'Power BI', 'Citrix']",,

@@ -11,6 +11,9 @@ async def jd_dialog(q: Q, details=None):
                 ui.textbox(name='title', label='Job title'),
                 ui.textbox(name='vacancies', label='Vacancies count'),
                 ui.file_upload(name='jd_file', label='Upload', multiple=False, file_extensions=['txt'], compact=True),
+                ui.slider(name='skill_weight', label='Skill Weight', min=0, max=1, step=0.05, value=1),
+                ui.slider(name='edu_weight', label='Education Weight', min=0, max=1, step=0.05, value=1),
+                ui.slider(name='exp_weight', label='Experience Weight', min=0, max=1, step=0.05, value=1),
                 ui.button(name='submit_jd', label='Submit', primary=True)
             ],
             # Enable a close button (displayed at the top-right of the dialog)

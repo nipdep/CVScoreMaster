@@ -308,8 +308,8 @@ def exp_score(jd, cv):
     score = sin_transformation(month_count)
     return score
 
-def total_score(r):
-    score = (1*r['skill_score'] + 1*r['edu_score'] + 1*r['exp_score'])/3
+def total_score(r, skill=1, edu=1, exp=1):
+    score = (skill*r['skill_score'] + edu*r['edu_score'] + exp*r['exp_score'])/3
     return score
 
 # ==================================================================
