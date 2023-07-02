@@ -3,6 +3,7 @@
     
 </h1>
 <h2 align='center'> CV ScoreMaster </h2>
+
 ### Introduction
 CV ScoreMaster is a cutting-edge web application that revolutionizes the recruitment process by automating the CV shortlisting and scoring process. Our advanced algorithms analyze job descriptions and CVs to provide an efficient and objective evaluation of candidates. Save time and resources by effortlessly identifying the most qualified candidates for your job openings. With CV ScoreMaster, streamline your hiring process and make data-driven decisions to find the perfect fit for your organization.
 

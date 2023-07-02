@@ -7,7 +7,7 @@ from .utilities import load_cv_data, load_js_data, load_model, load_short_list, 
 config = {
     "app_title": "CV ScoreMaster",
     "sub_title": "Automated CV Shortlisting and Scoring for Job Applications",
-    "footer_text": 'Copyright 2022 @nipdep, Made using <a href="https://wave.h2o.ai" target="_blank">H2O Wave</a>',
+    "footer_text": 'Copyright 2023, Made using <a href="https://wave.h2o.ai" target="_blank">H2O Wave</a>',
     'description': "CV ScoreMaster is a cutting-edge web application that revolutionizes the recruitment process by automating the CV shortlisting and scoring process. Our advanced algorithms analyze job descriptions and CVs to provide an efficient and objective evaluation of candidates. Save time and resources by effortlessly identifying the most qualified candidates for your job openings. With CV ScoreMaster, streamline your hiring process and make data-driven decisions to find the perfect fit for your organization."
 }
 
